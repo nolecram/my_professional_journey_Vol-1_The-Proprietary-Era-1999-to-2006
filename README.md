@@ -30,11 +30,14 @@ The journey represents more than credentials and achievements; it embodies the m
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="33%" align="center">
 <img src="./assets/images/colleagues/colleagues-photo-1.jpg" alt="Colleagues" width="90%">
 </td>
-<td width="50%" align="center">
+<td width="33%" align="center">
 <img src="./assets/images/colleagues/colleagues-photo-2.jpg" alt="Team Collaboration" width="90%">
+</td>
+<td width="33%" align="center">
+<img src="./assets/images/colleagues/colleagues-photo-3.jpg" alt="Professional Network" width="90%">
 </td>
 </tr>
 </table>
