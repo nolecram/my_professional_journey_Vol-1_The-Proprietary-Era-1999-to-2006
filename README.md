@@ -45,10 +45,10 @@ This repository documents professional activities, technical development, and ce
 
 ### Companies
 
-- [Atos](docs/companies/atos.md) - International systems integration and IT services (1999-2000)
-- [TeleAp](docs/companies/teleap.md) - Telecommunications and business solutions (2000-2001)
-- [RSI Sistemi](docs/companies/rsi-sistemi.md) - System integration and enterprise solutions (2001-2003)
-- [Avaya](docs/companies/avaya.md) - Telecommunications and unified communications (2003-2006)
+- [Atos](docs/companies/atos.md) - International systems integration and IT services (May 1999 – September 2000)
+- [TeleAp](docs/companies/teleap.md) - Telecommunications and business solutions (September 2000 – April 2003)
+- [RSI Sistemi](docs/companies/rsi-sistemi.md) - System integration and enterprise solutions (April – May 2003)
+- [Avaya](docs/companies/avaya.md) - Telecommunications and unified communications (June 2003 – August 2006)
 
 ### Professional Development & Learning
 

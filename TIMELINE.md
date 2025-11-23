@@ -20,7 +20,7 @@ Entry into professional IT world with Atos, beginning of formative journey in Ro
 ## 2000
 
 ### Overview
-Year of technology transition and professional development across enterprise systems
+Transition from Atos to TeleAp (September 2000), beginning of extended engagement with telecommunications sector
 
 [Timeline entries to be added]
 
@@ -29,7 +29,7 @@ Year of technology transition and professional development across enterprise sys
 ## 2001
 
 ### Overview
-Continued professional development and company transition period
+Continued professional development at TeleAp, deepening telecom expertise
 
 [Timeline entries to be added]
 
@@ -38,7 +38,7 @@ Continued professional development and company transition period
 ## 2002
 
 ### Overview
-Professional growth and expanded responsibilities
+Final year at TeleAp (through April 2003), preparation for next transition
 
 [Timeline entries to be added]
 
@@ -47,7 +47,7 @@ Professional growth and expanded responsibilities
 ## 2003
 
 ### Overview
-Mid-career development and transition to new organization
+Transition year: brief engagement at RSI Sistemi (April–May), transition to Avaya (June 2003 onward)
 
 [Timeline entries to be added]
 
@@ -56,7 +56,7 @@ Mid-career development and transition to new organization
 ## 2004
 
 ### Overview
-Continued professional advancement and technology evolution
+Continued professional growth at Avaya, middle years of extended tenure
 
 [Timeline entries to be added]
 
@@ -65,7 +65,7 @@ Continued professional advancement and technology evolution
 ## 2005
 
 ### Overview
-Professional maturity and specialized expertise development
+Professional maturity at Avaya, specialized expertise development
 
 [Timeline entries to be added]
 
@@ -74,7 +74,7 @@ Professional maturity and specialized expertise development
 ## 2006
 
 ### Overview
-Final year of formative journey, reflection and preparation for new chapters
+Final year of formative journey at Avaya (through August 2006), reflection and preparation for new chapters
 
 [Timeline entries to be added]
 
@@ -94,11 +94,11 @@ Final year of formative journey, reflection and preparation for new chapters
 - **Period:** 1999 - 2006
 - **Duration:** 7 years
 
-**Companies**
-- Atos
-- TeleAp
-- RSI Sistemi
-- Avaya
+**Companies and Tenure**
+- Atos: May 1999 – September 2000 (16 months)
+- TeleAp: September 2000 – April 2003 (31 months)
+- RSI Sistemi: April – May 2003 (2 months)
+- Avaya: June 2003 – August 2006 (38 months)
 
 ### Timeline by Activity Type
 
@@ -108,14 +108,14 @@ Final year of formative journey, reflection and preparation for new chapters
 
 | Year | Certifications | Courses | Company | Location |
 |------|---|---|---|---|
-| 1999 | [TBD] | [TBD] | [TBD] | Rome |
-| 2000 | [TBD] | [TBD] | [TBD] | Rome |
-| 2001 | [TBD] | [TBD] | [TBD] | Rome |
-| 2002 | [TBD] | [TBD] | [TBD] | Rome |
-| 2003 | [TBD] | [TBD] | [TBD] | Rome |
-| 2004 | [TBD] | [TBD] | [TBD] | Rome |
-| 2005 | [TBD] | [TBD] | [TBD] | Rome |
-| 2006 | [TBD] | [TBD] | [TBD] | Rome |
+| 1999 | [TBD] | [TBD] | Atos | Rome |
+| 2000 | [TBD] | [TBD] | Atos → TeleAp (Sept) | Rome |
+| 2001 | [TBD] | [TBD] | TeleAp | Rome |
+| 2002 | [TBD] | [TBD] | TeleAp | Rome |
+| 2003 | [TBD] | [TBD] | TeleAp → RSI → Avaya (June) | Rome |
+| 2004 | [TBD] | [TBD] | Avaya | Rome |
+| 2005 | [TBD] | [TBD] | Avaya | Rome |
+| 2006 | [TBD] | [TBD] | Avaya | Rome |
 | **Total** | **[TBD]** | **[TBD]** | **4 companies** | **Rome** |
 
 ---
