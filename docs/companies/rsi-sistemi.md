@@ -46,15 +46,15 @@ The role was straightforward: lead the data migration and integration work, ensu
 
 ---
 
-## Cross-Industry Perspective: Manufacturing vs. Technology
+## Cross-Industry Perspective: Automotive Industry and Technology
 
 For someone who had spent the previous three years in telecommunications and IT services consulting, the automotive industry exposure was eye-opening. The contrast was stark and instructive.
 
 Telecom Italia and the telecommunications sector generally were technology-native environments. Systems changed rapidly. Technology vendors dominated the relationship. Projects were structured around technology architectures. The pace of innovation was relentless. Y2K, the dot-com boom and bust, the shift from proprietary to IP-based systems—technology itself was the primary story.
 
-Renault, and traditional manufacturing industry generally, operated in a fundamentally different context. The business had been stable for decades. Production processes changed slowly and deliberately. Technology was important, but it was *infrastructure for the business*, not the business itself. Decision-making was more conservative and longer-term. There was a kind of old-fashioned, deliberate rhythm to how things worked—vendor relationships lasted for years or decades, changes were planned conservatively, and the organizational culture was established and formal.
+Renault, and traditional automotive manufacturing generally, operated in a fundamentally different context. The business had been stable for decades. Production processes changed slowly and deliberately. Technology was important, but it was *infrastructure for the business*, not the business itself. Decision-making was more conservative and longer-term. The automotive industry ran on deeply embedded legacy systems: IBM AS/400 minicomputers managing inventory and production data, SCADA (Supervisory Control and Data Acquisition) systems controlling factory floor operations, mainframe systems for financial and supply chain operations. These systems had been running for decades, had been customized extensively, and were tightly woven into operational processes. Vendor relationships lasted for years or decades, changes were planned conservatively, and the organizational culture was established and formal.
 
-This wasn't better or worse than technology-driven environments; it was simply different. Where the telecom and IT services world prided itself on agility and rapid iteration, the automotive world valued stability, proven solutions, and long-term relationships. Where telecom viewed technology as constantly evolving, automotive saw technology as a solved problem that needed to be managed reliably rather than constantly reinvented.
+This wasn't better or worse than technology-driven environments; it was simply different. Where the telecom and IT services world prided itself on agility and rapid iteration, the automotive industry valued stability, proven solutions, and long-term relationships. Where telecom viewed technology as constantly evolving, automotive saw technology as a solved problem that needed to be managed reliably rather than constantly reinvented.
 
 The experience provided valuable perspective: technology integration challenges looked different depending on the industry's baseline assumptions about change and risk. Renault's careful, methodical approach to a data integration project that a telecom company would have executed with more urgency was a reminder that **industry culture shapes how technical work gets done**.
 
@@ -82,9 +82,9 @@ The RSI Sistemi engagement, though brief, reinforced important lessons:
 
 **First:** Domain expertise transcends industry boundaries. The skills developed managing Project 119's customer data applied directly to Renault's challenge. ETL processes, data quality discipline, vendor integration coordination—these were universal patterns.
 
-**Second:** Industry culture matters. Technology is tools, but the organizational and business context determines how technology gets deployed, how much risk is acceptable, and how quickly change happens.
+**Second:** Industry culture matters. Technology is tools, but the organizational and business context determines how technology gets deployed, how much risk is acceptable, and how quickly change happens. The automotive industry's reliance on aging IBM AS/400 and SCADA systems reflected deep organizational roots—these were not outdated choices but pragmatic decisions made in different contexts that accumulated into substantial technical debt. Today, those systems have largely been retired or abstracted; at the time, they were simply how manufacturing operations worked.
 
-**Third:** The telecom and IT services sector had been the center of gravity for the previous three years, and returning to that domain felt natural. The manufacturing-industry pace, while valuable for perspective, reinforced that the telecom and technology world was where the most interesting work was happening. The industry was in the midst of genuine transformation (the post-bubble consolidation, the shift from circuit-switched to IP-based infrastructure, the evolution of enterprise software). Manufacturing industry was stable and mature. The learning was valuable, but the pull back toward telecommunications was strong.
+**Third:** The telecom and IT services sector had been the center of gravity for the previous three years, and returning to that domain felt natural. The automotive industry pace, while valuable for perspective, reinforced that the telecom and technology world was where the most interesting work was happening. The industry was in the midst of genuine transformation (the post-bubble consolidation, the shift from circuit-switched to IP-based infrastructure, the evolution of enterprise software). The automotive industry was stable and mature. The learning was valuable, but the pull back toward telecommunications was strong.
 
 ---
 

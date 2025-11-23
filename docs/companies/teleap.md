@@ -69,9 +69,11 @@ This evolution accelerated as TeleAp expanded beyond the Olivetti/TIM context. T
 
 ---
 
-## The Reality of CRM Integration
+### The Reality of CRM Integration
 
 What Siebel promised in theory and what it delivered in practice were often different things. The system was powerful but inflexible. Customization meant coding within Siebel's proprietary scripting language (Siebel Tools and eScript). Integrations to other systems required middleware and custom development. Data quality was often the real challenge—organizations had spent years accumulating incomplete, inconsistent customer data, and Siebel didn't magically fix that.
+
+*All of these technologies—Siebel CRM, Genesys CTI, Ericsson NASP, the custom integration middleware—have become obsolete or been fundamentally superseded by modern cloud-native, API-driven platforms. The Siebel implementation practices that took considerable expertise to master are no longer relevant; modern CRM platforms approach the problem entirely differently. This is not a critique of the work or the organizations that built it—it is simply the nature of technology. What mattered was not the specific platforms but the principles: how to coordinate between vendor systems, how to manage organizational change, how to maintain data quality, how to execute large-scale transitions without disrupting production. Those principles remain valid.*
 
 Successful implementations required discipline: rigorous requirements gathering to avoid scope creep, disciplined change management as organizations shifted to new processes, careful data cleansing before migration. Organizations that treated Siebel as a magic solution often struggled. Those that treated it as a tool that would only be as good as their process design and data quality usually succeeded.
 
