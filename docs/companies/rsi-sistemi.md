@@ -16,8 +16,8 @@ In 2001, RSI Sistemi was acquired by Altran Group, the French leader in engineer
 
 | Timeline | Entity | Logo |
 |----------|--------|------|
-| 1976–2001 (Tenure) | **RSI Sistemi** | <img src="../../assets/images/logos/rsi-sistemi-logo.png" alt="RSI Sistemi Logo" width="100" height="100"/> |
-| 2001–2020 | **Altran** | <img src="../../assets/images/logos/rsi-altran-logo.png" alt="Altran Logo" width="100" height="100"/> |
+| 1976–2001 | **RSI Sistemi** | <img src="../../assets/images/logos/rsi-sistemi-logo.png" alt="RSI Sistemi Logo" width="100" height="100"/> |
+| 2001–2020 (Tenure) | **Altran** | <img src="../../assets/images/logos/rsi-altran-logo.png" alt="Altran Logo" width="100" height="100"/> |
 | 2020 onward | **Capgemini Engineering** | <img src="../../assets/images/logos/rsi-capgemini-engineering-logo.png" alt="Capgemini Engineering Logo" width="100" height="100"/> |
 
 </div>

@@ -15,8 +15,8 @@ The company's trajectory reflected broader consolidation in the Italian IT servi
 | Timeline | Entity | Logo |
 |----------|--------|------|
 | 1995–2001 | **TeleAp (Olivetti)** | <img src="../../assets/images/logos/teleap-olivetti-logo.png" alt="Olivetti Logo" width="100" height="100"/> |
-| 2001–2004 | **Webegg (Olivetti)** | <img src="../../assets/images/logos/teleap-webegg-logo.png" alt="Webegg Logo" width="100" height="100"/> |
-| 2004–2011 (Tenure) | **Value Team** | <img src="../../assets/images/logos/teleap-value-team-logo.png" alt="Value Team Logo" width="100" height="100"/> |
+| 2001–2004 (Tenure) | **Webegg (Olivetti)** | <img src="../../assets/images/logos/teleap-webegg-logo.png" alt="Webegg Logo" width="100" height="100"/> |
+| 2004–2011 | **Value Team** | <img src="../../assets/images/logos/teleap-value-team-logo.png" alt="Value Team Logo" width="100" height="100"/> |
 | 2011 onward | **NTT DATA** | <img src="../../assets/images/logos/teleap-ntt-logo.png" alt="NTT DATA Logo" width="100" height="100"/> |
 
 </div>
