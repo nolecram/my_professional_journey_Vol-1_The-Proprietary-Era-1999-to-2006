@@ -12,7 +12,7 @@ The company evolved through the following transformations:
 
 | Timeline | Entity | Logo |
 |----------|--------|------|
-| 1999–2000 | **Atos** | <div align="center"><img src="../../assets/images/logos/atos-logo.png" alt="Atos Logo" width="140" height="140"/></div> |
+| 1999–2000 (Tenure) | **Atos** | <div align="center"><img src="../../assets/images/logos/atos-logo.png" alt="Atos Logo" width="140" height="140"/></div> |
 | 2000–2008 | **Atos Origin** | <div align="center"><img src="../../assets/images/logos/atos-origin-logo.png" alt="Atos Origin Logo" width="140" height="140"/></div> |
 | 2008 onward | **Engineering Ingegneria Informatica** | <div align="center"><img src="../../assets/images/logos/engineering-logo.png" alt="Engineering Logo" width="140" height="140"/></div> |
 
@@ -21,7 +21,8 @@ The company evolved through the following transformations:
 - **Industry:** IT Services and Consulting
 - **Geographic Presence:** International, pan-European (with significant presence across Europe)
 - **Sector Focus:** Enterprise Systems Integration, Consulting, ERP Solutions, Infrastructure Outsourcing
-- **Tenure Period:** 1999–2000
+- **Tenure Period:** May 1999 – September 2000
+- **Role:** Integration Consultant
 - **Location:** Rome, Italy
 - **Context:** Entry point into professional IT world, marking the beginning of the seven-year formative journey
 
