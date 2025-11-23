@@ -78,13 +78,15 @@ The project executed successfully. The customer database was migrated, validated
 
 ## Professional Learning & Context
 
-The RSI Sistemi engagement, though brief, reinforced important lessons:
+## Professional Learning & Context
 
-**First:** Domain expertise transcends industry boundaries. The skills developed managing Project 119's customer data applied directly to Renault's challenge. ETL processes, data quality discipline, vendor integration coordination—these were universal patterns.
+The RSI Sistemi engagement, though brief, reinforced important lessons about domain expertise, industry culture, and strategic career decisions:
 
-**Second:** Industry culture matters. Technology is tools, but the organizational and business context determines how technology gets deployed, how much risk is acceptable, and how quickly change happens. The automotive industry's reliance on aging IBM AS/400 and SCADA systems reflected deep organizational roots—these were not outdated choices but pragmatic decisions made in different contexts that accumulated into substantial technical debt. Today, those systems have largely been retired or abstracted; at the time, they were simply how manufacturing operations worked.
+**Domain expertise transcends industry boundaries.** The skills developed managing Project 119's customer data applied directly to Renault's challenge. ETL processes, data quality discipline, vendor integration coordination—these were universal patterns.
 
-**Third:** The telecom and IT services sector had been the center of gravity for the previous three years, and returning to that domain felt natural. The automotive industry pace, while valuable for perspective, reinforced that the telecom and technology world was where the most interesting work was happening. The industry was in the midst of genuine transformation (the post-bubble consolidation, the shift from circuit-switched to IP-based infrastructure, the evolution of enterprise software). The automotive industry was stable and mature. The learning was valuable, but the pull back toward telecommunications was strong.
+**Industry culture shapes technical work.** The automotive industry's reliance on aging IBM AS/400 and SCADA systems reflected deep organizational roots—pragmatic decisions made in different contexts that accumulated into substantial technical debt. Today those systems have largely been retired; at the time, they were simply how manufacturing operated. This reinforced that technology serves organizational and business context, not the reverse.
+
+**Strategic career clarity.** The telecom and IT services sector had been the center of gravity for the previous three years. The automotive industry pace, while valuable for perspective, reinforced that telecom and technology was where the most interesting work was happening—in the midst of genuine transformation (post-bubble consolidation, shift from circuit-switched to IP-based infrastructure, evolution of enterprise software). Manufacturing was stable and mature. The learning was valuable, but the pull back toward telecommunications was strong.
 
 ---
 
@@ -98,13 +100,13 @@ The month at RSI Sistemi was brief but genuinely valuable—exposure to a differ
 
 ---
 
-## Historical Context: The Consolidation of Italian IT Services
+## Historical Context
 
-RSI Sistemi's acquisition by Altran in 2001 and subsequent integration into Altran Italia by 2007 reflected a broader consolidation pattern across European IT services. The late 1990s had seen numerous independent specialists—firms with deep expertise in specific domains or technologies. By the early 2000s, consolidation was accelerating. Enterprises wanted integrated service providers that could handle end-to-end solutions, manage relationships with multiple vendors, and offer services across consulting, integration, and support. Single-domain specialists, however technically excellent, struggled to compete against larger, more diversified firms.
+RSI Sistemi's acquisition by Altran in 2001 and subsequent integration into Altran Italia by 2007 reflected broader European IT services consolidation. The late 1990s had seen numerous independent specialists with deep domain expertise. By the early 2000s, consolidation accelerated as enterprises wanted integrated service providers handling end-to-end solutions. Single-domain specialists, however technically excellent, struggled against larger, more diversified firms.
 
-The market was consolidating into a few large national players (Value Team, Engineering, Altran Italia) and international firms operating in Italy (Accenture, IBM, larger American and European consultancies). Independent firms with deep specialization had limited future unless they could scale rapidly or get acquired by larger players. RSI Sistemi chose acquisition, which preserved the technical expertise but absorbed the company into a larger organization with different priorities and culture.
+The market consolidated into a few large national players (Value Team, Engineering, Altran Italia) and international firms (Accenture, IBM). Independent specialists had limited future unless they could scale rapidly or be acquired. RSI Sistemi chose acquisition, which preserved expertise but absorbed the company into a larger organization with different priorities.
 
-This consolidation trend would continue: Altran itself would be acquired by Capgemini in 2020 and rebranded as Capgemini Engineering in 2021. The trajectory from independent specialist (RSI Sistemi 1976–2001) through acquisition (Altran 2001–2020) through integration into a global giant (Capgemini 2020 onward) captured the arc of European IT services consolidation across a 40-year period.
+This pattern continued: Altran was acquired by Capgemini in 2020 and rebranded as Capgemini Engineering in 2021. The trajectory from independent specialist (RSI Sistemi 1976–2001) through acquisition (Altran 2001–2020) through integration into a global giant (Capgemini 2020 onward) captured the arc of European IT services consolidation across 40 years.
 
 ---
 
