@@ -16,25 +16,28 @@ This repository chronicles a seven-year professional journey spanning 1999 to 20
 
 The journey represents more than credentials and achievements; it embodies the mentorship, collaboration, and knowledge-sharing that shaped professional growth. To the managers, colleagues, and clients encountered in Rome: your guidance and patience made this foundation possible.
 
-### Companies Timeline
+### Colleagues and Collaborations
+
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="./assets/images/colleagues/colleagues-photo-1.jpg" alt="Colleagues" width="90%">
+</td>
+<td width="50%" align="center">
+<img src="./assets/images/colleagues/colleagues-photo-2.jpg" alt="Team Collaboration" width="90%">
+</td>
+</tr>
+</table>
+
+*The heart of the formative journey—exceptional colleagues and collaborative teams across four companies in Rome*
+
+---
 
 <div align="center">
 
 <img src="./assets/images/logos/formative-years-logo-bar.png" alt="Professional Timeline: Atos (1999–2000) → TeleAp (2000–2003) → RSI Sistemi (2003) → Avaya (2003–2006)" width="95%">
 
 *Professional journey through four Rome-based companies, spanning 1999–2006*
-
-</div>
-
-### Colleagues and Collaborations
-
-<div align="center">
-
-| Colleagues | Team Collaboration |
-| --- | --- |
-| <img src="./assets/images/colleagues/colleagues-photo-1.jpg" alt="Colleagues" width="90%"> | <img src="./assets/images/colleagues/colleagues-photo-2.jpg" alt="Team Collaboration" width="90%"> |
-
-*The heart of the formative journey—exceptional colleagues and collaborative teams across four companies in Rome*
 
 </div>
 
