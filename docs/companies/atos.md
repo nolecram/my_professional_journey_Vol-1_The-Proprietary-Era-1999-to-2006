@@ -39,6 +39,7 @@ During tenure at Atos, primary technical work centered on the **HP CCM (Customer
 - **Siebel CRM** — Integrated customer relationship management system (customized by Accenture)
 - **Custom Telephony Solutions** — User Telephony Bar developed by Harpa Italia
 - **Infrastructure:** HP Unix systems, HP ProLiant servers, Oracle Database running on Sun 10000 Enterprise (Starfire) machine
+- **Storage Infrastructure:** EMC Symmetrix storage system
 
 ### Project Focus: Telecom Italia Mobile (TIM) Project 119
 
@@ -49,6 +50,7 @@ As an Integration Consultant, tenure was entirely allocated to **Project 119** f
 - **CTI Component:** HP CCM Software (primary Atos responsibility)
 - **User Interface:** Custom Telephony Bar developed by Harpa Italia
 - **CRM Integration:** Siebel CRM (customized by Accenture) backed by Oracle Database on Sun 10000 Enterprise (Starfire)
+- **Storage:** EMC Symmetrix storage infrastructure
 
 **Organizational Structure:**
 The project operated under a complex contractor ecosystem:
