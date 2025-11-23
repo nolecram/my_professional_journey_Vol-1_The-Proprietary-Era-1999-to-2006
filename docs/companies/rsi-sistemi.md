@@ -78,8 +78,6 @@ The project executed successfully. The customer database was migrated, validated
 
 ## Professional Learning & Context
 
-## Professional Learning & Context
-
 The RSI Sistemi engagement, though brief, reinforced important lessons about domain expertise, industry culture, and strategic career decisions:
 
 **Domain expertise transcends industry boundaries.** The skills developed managing Project 119's customer data applied directly to Renault's challenge. ETL processes, data quality discipline, vendor integration coordination—these were universal patterns.
