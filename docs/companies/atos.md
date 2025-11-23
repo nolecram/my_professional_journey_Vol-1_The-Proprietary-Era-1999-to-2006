@@ -59,7 +59,7 @@ The project operated under a complex contractor ecosystem:
 - **Primary Contractors:** Ericsson (telephony), HP (CTI/telephony bar), Accenture (CRM customization)
 - **System Integrators:** Atos, Pride, Sema, and others—each with distinct relationships to primary contractors
 - **Oversight:** Telesoft (Telecom Italia Group company) providing architectural governance
-- **Work Location:** Primary office at TIM Via Tiburtina (Rome); frequent visits to TIM Via di Tor Pagnotta office
+- **Work Location:** Primary office at TIM Via Tiburtina (Rome); frequent visits to TIM Via di Tor Pagnotta (Rome)
 
 ### Role and Responsibilities
 
