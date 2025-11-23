@@ -40,7 +40,7 @@ During tenure at Atos, primary technical work centered on the **HP CCM (Customer
 - **Ericsson NASP Platform** — Telephony infrastructure and call routing
 - **Siebel CRM** — Integrated customer relationship management system (customized by Accenture)
 - **Custom Telephony Solutions** — User Telephony Bar developed by Harpa Italia
-- **Infrastructure:** HP Unix systems, HP ProLiant servers, Oracle Database running on Sun10K
+- **Infrastructure:** HP Unix systems, HP ProLiant servers, Oracle Database running on SUN 10K
 - **Storage Infrastructure:** EMC Symmetrix storage system
 
 ### Project Focus: Telecom Italia Mobile (TIM) Project 119
@@ -51,7 +51,7 @@ As an Integration Consultant, tenure was entirely allocated to **Project 119** f
 - **Telephony Layer:** Ericsson NASP platform for call switching and routing
 - **CTI Component:** HP CCM Software (primary Atos responsibility)
 - **User Interface:** Custom Telephony Bar developed by Harpa Italia
-- **CRM Integration:** Siebel CRM (customized by Accenture) backed by Oracle Database on Sun10K
+- **CRM Integration:** Siebel CRM (customized by Accenture) backed by Oracle Database on SUN 10K
 - **Storage:** EMC Symmetrix storage infrastructure
 
 **Organizational Structure:**
@@ -76,7 +76,7 @@ The call center technology stack of 1999–2000 represented a distinctive moment
 
 **The Technology That Defined That Era:**
 
-The Telecom Italia Mobile Project 119 architecture exemplified late-1990s call center design: tightly coupled, vendor-proprietary systems with minimal interoperability. Ericsson's NASP platform controlled telephony at the switch level. HP's CCM (Computer Telephony Integration) software mediated between telephony and applications through custom APIs and middleware. Siebel CRM, one of the era's enterprise standards, ran on massive dedicated Oracle databases on Sun10K servers. Storage relied on EMC Symmetrix—massive, expensive, proprietary SAN systems that required specialized administration. Every component was vendor-locked, purpose-built, and entirely on-premise.
+The Telecom Italia Mobile Project 119 architecture exemplified late-1990s call center design: tightly coupled, vendor-proprietary systems with minimal interoperability. Ericsson's NASP platform controlled telephony at the switch level. HP's CCM (Computer Telephony Integration) software mediated between telephony and applications through custom APIs and middleware. Siebel CRM, one of the era's enterprise standards, ran on massive dedicated Oracle databases on SUN 10K servers. Storage relied on EMC Symmetrix—massive, expensive, proprietary SAN systems that required specialized administration. Every component was vendor-locked, purpose-built, and entirely on-premise.
 
 This architecture reflected the technological assumptions of the era: that telecommunications infrastructure was permanent, that specialized hardware was necessary for reliability, that integration required vendor middleware and complex custom development, and that enterprise software was too mission-critical to trust to anything but tightly-controlled, proprietary solutions.
 
