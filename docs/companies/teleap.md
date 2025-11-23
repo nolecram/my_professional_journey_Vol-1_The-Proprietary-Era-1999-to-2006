@@ -69,7 +69,7 @@ The knowledge of a single large project, when captured properly, could become th
 
 ### Integration Architecture in the Pre-Cloud Era
 
-In the late 1990s and early 2000s, incompatible systems required careful architecture, custom middleware, and detailed coordination. There was no plug-and-play interoperability. Integration quality determined whether systems worked or failed under load. This architectural thinking—understanding system interactions, failure points, and friction at boundaries—became foundational. Modern cloud-native systems and APIs changed the mechanics, but the underlying principle remained: good integration requires understanding what each system does well and where boundaries create friction.
+Incompatible systems required careful architecture, custom middleware, and detailed coordination. Integration quality determined whether systems worked or failed under load. This architectural thinking—understanding system interactions, failure points, and friction at boundaries—became foundational. Modern cloud-native systems and APIs changed the mechanics, but the principle remained: good integration requires understanding what each system does well and where boundaries create friction.
 
 ## On the Obsolescence of This Era
 
@@ -79,11 +79,9 @@ Yet the principles transcended the platforms: understanding customer processes, 
 
 ---
 
-## On the Evolution of Project 119 and CRM Integration
+## Project 119's Evolution
 
-Project 119 itself exemplified the transition era: it began as a traditional telecommunications call center project (Atos era with HP CCM and pure CTI focus), underwent architectural reorganization as Olivetti consolidated Telecom Italia (shifting to Genesys CTI and Siebel CRM focus), and eventually became a case study in how to integrate modern CRM systems with traditional telecom infrastructure.
-
-The evolution of Project 119—from pure CTI infrastructure project to integrated CRM and contact center solution—mirrored the broader evolution of enterprise IT: from specialized components to integrated platforms, from on-premise infrastructure to cloud services, from custom integration to plug-and-play APIs. But the journey through that transition taught more than any theoretical study could have.
+Project 119 exemplified the transition era: it began as a pure CTI infrastructure project (Atos era), underwent architectural reorganization to integrate Siebel CRM (TeleAp era), and eventually became a case study in integrating modern CRM systems with traditional telecom infrastructure. That evolution—from specialized components to integrated platforms, from on-premise to cloud, from custom integration to plug-and-play APIs—mirrored the broader evolution of enterprise IT. The journey through that transition taught more than theory could.
 
 ---
 
@@ -97,9 +95,7 @@ The consolidations during tenure (TeleAp into Webegg, then Value Team) reflected
 
 ## Historical Context
 
-TeleAp's trajectory from Olivetti subsidiary to Webegg to Value Team to NTT DATA reflected broader European IT services consolidation. The late 1990s and early 2000s saw smaller specialized firms progressively consolidate into larger national and international players, driven by client globalization, shift toward larger projects, and vendor consolidation (Siebel, Oracle, SAP).
-
-By the early 2010s, Italian IT services had consolidated into a handful of large players. Specialized niches became less viable as standalone entities. TeleAp's experience was absorption into larger organizations while technical expertise and customer relationships continued to drive value.
+TeleAp's trajectory from Olivetti subsidiary through Webegg to Value Team to NTT DATA reflected broader European IT services consolidation. By the early 2010s, Italian IT services had consolidated into a handful of large players. Specialized niches became less viable as standalone entities. TeleAp's experience was absorption into larger organizations while technical expertise and customer relationships continued to drive value.
 
 ---
 
