@@ -11,45 +11,81 @@ This documentation serves as grateful recognition of that investment and the tea
 ## 1999
 
 ### Overview
-Entry into professional IT world with Atos, beginning of formative journey in Rome
+Entry into professional IT world with Atos, beginning of formative journey in Rome. First role as Integration Consultant on Project 119 for Telecom Italia Mobile.
 
-[Timeline entries to be added]
+### Key Milestones
+- **May 1999** - Joined Atos as Integration Consultant
+- **Atos formation context** - Entry into newly formed Atos (French IT services group formed 1997 from Axime/Sligos merger)
+- **Project 119 assignment** - Call center infrastructure supporting TIM emergency and customer service line
+- **Technology stack** - Ericsson NASP telephony, HP CCM (CTI), Siebel CRM, Oracle databases, EMC storage, Sun/HP servers
+- **Focus area** - Infrastructure management, production testing, hardware administration, multi-vendor coordination
+- **Location** - Rome, Italy (Via Tiburtina and Via di Tor Pagnotta offices)
 
 ---
 
 ## 2000
 
 ### Overview
-Transition from Atos to TeleAp (September 2000), beginning of extended engagement with telecommunications sector
+Continued work on Project 119 at Atos through summer 2000. Witnessed Y2K preparation and transition (December 31, 1999 – January 1, 2000). Transition to TeleAp in September 2000, marking shift from infrastructure-focused to CRM solutions work.
 
-[Timeline entries to be added]
+### Key Milestones
+- **Late 1999 through January 2000** - Y2K preparation: extensive audits, monitoring, on-call during transition
+- **December 31, 1999 – January 1, 2000** - Monitored Project 119 systems through Millennium Bug transition (systems performed flawlessly)
+- **January – September 2000** - Continued infrastructure management at Atos; monitored post-Y2K system stability
+- **May 2000** - Atos Origin formation (Atos merges with Dutch Origin B.V.; Italian branch becomes part of pan-European IT services provider)
+- **September 2000** - Transition to TeleAp as Senior Integration Consultant
+- **TeleAp context** - Olivetti had acquired Telecom Italia (TIM); Project 119 undergoing architectural reorganization
+- **Architecture transition begins** - Shift from HP CCM to Genesys for CTI; Siebel CRM integration mandate assigned to TeleAp
 
 ---
 
 ## 2001
 
 ### Overview
-Continued professional development at TeleAp, deepening telecom expertise
+Continued at TeleAp as Senior Integration Consultant. Led Project 119 technical transition from HP CCM to Genesys CTI while managing Siebel CRM integration. Company consolidation: TeleAp incorporated into Webegg (Olivetti's consulting and SI arm).
 
-[Timeline entries to be added]
+### Key Milestones
+- **January – December 2001** - Primary focus: Project 119 transition and Siebel integration
+  - Execute Genesys CTI transition without production downtime
+  - Integrate Siebel CRM with Genesys for real-time agent screen population
+  - Coordinate across three major vendors (Ericsson, Genesys, Siebel)
+  - Manage legacy architecture understanding and knowledge transfer
+- **Institutional knowledge leverage** - Deep understanding of existing Project 119 architecture guided transition approach
+- **Multi-vendor coordination** - Getting three vendors to work together; managing organizational alignment
+- **2001** - TeleAp incorporated into Webegg (Olivetti's consulting and systems integration arm); shift toward broader digital transformation projects
+- **Learning focus** - Integration architecture, organizational change management, vendor coordination
 
 ---
 
 ## 2002
 
 ### Overview
-Final year at TeleAp (through April 2003), preparation for next transition
+Continued at TeleAp (within Webegg). Project 119 stabilization and optimization phase. Evolution toward broader CRM consulting practice beyond single project.
 
-[Timeline entries to be added]
+### Key Milestones
+- **January – April 2002** - Project 119 post-transition stabilization, optimization of Siebel-Genesys integration
+- **Throughout 2002** - Gradual role evolution: beginning to help commercialize Project 119 expertise for other customers
+- **CRM solutions scaling** - Taking patterns learned on Project 119 and applying to other contact center/CRM implementations
+- **Role expansion** - From Senior Integration Consultant (Project 119-focused) toward broader Program Manager responsibilities
+- **Technology focus** - Siebel CRM customization, contact center integration patterns, multi-vendor architecture
+- **Mentoring and knowledge transfer** - Began building methodologies for broader TeleAp consulting practice
 
 ---
 
 ## 2003
 
 ### Overview
-Transition year: brief engagement at RSI Sistemi (April–May), transition to Avaya (June 2003 onward)
+Transition year. Continued at TeleAp (within Webegg, preparing for Value Team consolidation) through April 2003. Brief engagement at RSI Sistemi (April–May). Transition to Avaya (June 2003 onward).
 
-[Timeline entries to be added]
+### Key Milestones
+- **January – April 2003** - Final months at TeleAp/Webegg
+  - Consolidated Program Manager role supporting broader CRM practice
+  - Knowledge transfer and methodology documentation
+  - Project 119 institutional knowledge increasingly embedded in broader practice
+- **April – May 2003** - Engagement at RSI Sistemi (brief, 2-month period)
+- **June 2003** - Transition to Avaya; beginning of 3+ year tenure in telecommunications and unified communications
+- **Industry context** - Webegg consolidation into Value Team (Value Partners' IT services consolidation) beginning; broader Italian IT services consolidation wave underway
+- **Learning trajectory** - From Project 119 specialist to broader solutions practice architect; moving toward unified communications focus at Avaya
 
 ---
 
