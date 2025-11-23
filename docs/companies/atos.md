@@ -6,6 +6,16 @@
 
 **Atos** is an international information technology services and consulting company. Atos Italy was established in the late 1990s as part of the French IT services group Atos, which had been created in 1997 from the merger of Axime and Sligos. In 2000, following the global merger between Atos and the Dutch company Origin B.V., the Italian branch became part of the newly formed **Atos Origin**, a pan-European IT services provider with strong expertise in consulting, systems integration, and outsourcing. Within this new structure, Atos Origin Italy focused on delivering enterprise IT solutions, ERP implementations, infrastructure outsourcing, and digital transformation projects for major Italian clients in banking, telecommunications, manufacturing, and the public sector.
 
+### Company Transformation
+
+The company evolved through the following transformations:
+
+| Timeline | Entity | Logo |
+|----------|--------|------|
+| 1999–2000 | **Atos** | ![Atos Logo](../../assets/images/logos/atos-logo.png) |
+| 2000–2008 | **Atos Origin** | ![Atos Origin Logo](../../assets/images/logos/atos-origin-logo.png) |
+| 2008 onward | **Engineering Ingegneria Informatica** | ![Engineering Logo](../../assets/images/logos/engineering-logo.png) |
+
 ### Company Profile
 
 - **Industry:** IT Services and Consulting
