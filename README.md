@@ -42,7 +42,11 @@ The journey represents more than credentials and achievements; it embodies the m
 </tr>
 </table>
 
-*The heart of the formative journey—exceptional colleagues and collaborative teams across four companies in Rome*
+<div align="center">
+
+*Exceptional colleagues across four Rome-based companies*
+
+</div>
 
 ---
 
