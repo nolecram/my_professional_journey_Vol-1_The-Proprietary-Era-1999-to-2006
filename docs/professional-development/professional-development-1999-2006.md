@@ -78,6 +78,72 @@ This documentation captures the professional certifications, formal courses, and
 
 ---
 
+### Global Knowledge – DTWSSERV Course (May 2002)
+
+<div align="center">
+
+<img src="../../assets/images/certifications/global-knowledge-dtwsserv-2002.png" alt="Global Knowledge DTWSSERV Training Certificate" width="90%">
+
+*Global Knowledge DTWSSERV Course | Distributed Technologies and Web Services – May 13-14, 2002*
+
+</div>
+
+**Organization:** Global Knowledge  
+**Course:** DTWSSERV (Distributed Time and Work Service / Distributed Technologies and Web Services)  
+**Participant:** Marco Celon  
+**Dates:** May 13–14, 2002  
+**Location:** Rome  
+**Context:** Professional training in emerging distributed systems and web services technologies
+
+**Significance:** The DTWSSERV course (May 2002) represented early exposure to distributed systems and web services—emerging technologies that were beginning to reshape enterprise IT architecture. While Project 119 was still based on tightly coupled, on-premise proprietary systems, this training indicated awareness of the technological transition underway: from monolithic, location-dependent systems toward distributed architectures and web-based services. This was prescient training during the TeleAp era—the same period when the internet was beginning to reshape telecommunications and enterprise IT was contemplating post-dot-com bubble recovery and technological evolution. The course documentation distributed technologies and web services training before these concepts became mainstream, capturing an early moment in the shift from traditional infrastructure to internet-native architectures.
+
+---
+
+### ISTUD – Project Management Seminar (June 2002)
+
+<div align="center">
+
+<img src="../../assets/images/certifications/istud-project-management-seminar-2002.png" alt="ISTUD Project Management Seminar Certificate" width="90%">
+
+*ISTUD Project Management Seminar | June 3-4 and June 17-18, 2002 | Rome*
+
+</div>
+
+**Organization:** ISTUD (Italian business school / management development organization)  
+**Program:** Project Management seminar  
+**Participant:** Marco Celon  
+**Dates:** June 3–4 and June 17–18, 2002  
+**Location:** Rome  
+**Certificate Date:** May 14, 2002  
+**Type:** Professional development seminar in project management methodologies
+
+**Significance:** The ISTUD Project Management seminar (June 2002) provided structured business-focused training in project management—complementing the PMI membership commitment with practical seminar education. ISTUD is a respected Italian business school specializing in management development and professional training. This two-part seminar (spanning two weekends in June) provided intensive training in project management methodologies and practices from a business-oriented perspective. During the TeleAp tenure, as the role was evolving toward Program Manager responsibilities managing broader CRM consulting practice rather than single-project focus, this seminar provided formal education in project management frameworks and business practices—reinforcing the professional transition from technical specialist to business-focused project leadership.
+
+---
+
+### Consulnet Italia – Internal Quality Verification Training (March 2003)
+
+<div align="center">
+
+<img src="../../assets/images/certifications/consulnet-internal-quality-verification-2003.png" alt="Consulnet Italia Internal Quality Verification Training Certificate" width="90%">
+
+*Consulnet Italia – Attestato di Partecipazione e Superamento Esami | Internal Quality Verification Evaluator Training – March 2003*
+
+</div>
+
+**Organization:** Consulnet Italia  
+**Course:** "Le Verifiche Ispettive Interne – La Formazione dei Valutatori" (Internal Quality Verification – Evaluator Training)  
+**Participant:** Marco Celon, TeleAp S.P.A.  
+**Dates:** March 5, 6, 7, 13, 14, 2003 (Milan)  
+**Standards:** UNI EN ISO 9000:2000 and UNI EN ISO 19011:2003  
+**Achievement:** Passed internal verification inspection examination  
+**Instructor:** D.ssa Denise Morsanuto  
+**Context:** Quality management system training and internal audit evaluator certification
+
+**Significance:** The Consulnet Italia Internal Quality Verification training (March 2003) represented formalized expertise in quality management systems and internal auditing—skills that became increasingly important as TeleAp transitioned toward broader consulting practice beyond Project 119. The training covered ISO 9000 and ISO 19011 standards, certifying competency in conducting internal quality audits and evaluations. During the final months at TeleAp (before transition to RSI and Avaya), this training documented commitment to quality management frameworks and positioned for broader consulting responsibilities. The fact that this training occurred in March 2003—coinciding with the transition period from TeleAp to RSI Sistemi to Avaya—captured the professionalization of quality and process discipline during a period of significant organizational change.
+
+---
+
 ### Siebel Core Consultant Course (July 2001)
 
 <div align="center">
