@@ -106,9 +106,9 @@ This archive honors the people who made those years valuable: managers who inves
 
 ---
 
-## Reference: Parallel Repository (IBM Years)
+## The Story Continues
 
-This repository mirrors the structure and tone of [my_professional_journey_The-IBM-Years-2006-to-2012](https://github.com/nolecram/my_professional_journey_The-IBM-Years-2006-to-2012). If you need tone or structure examples, that repository is the reference standard for this series.
+This repository documents the formative years (1999–2006) in Rome, Italy. The professional journey continues beyond 2006 with [My IBM Professional Journey (2006–2012)](https://github.com/nolecram/my_professional_journey_The-IBM-Years-2006-to-2012), spanning three continents—Rome, Dubai, and Melbourne—where the transition from proprietary infrastructure to cloud computing unfolded across six transformative years.
 
 ---
 
