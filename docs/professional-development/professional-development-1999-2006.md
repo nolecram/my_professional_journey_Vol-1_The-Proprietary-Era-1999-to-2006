@@ -8,6 +8,76 @@ This documentation captures the professional certifications, formal courses, and
 
 ## Certifications and Formal Training
 
+### Microsoft Office User Specialist – Word 2000
+
+<div align="center">
+
+<img src="../../assets/images/certifications/microsoft-office-user-specialist-word2000.png" alt="Microsoft Office User Specialist Certification – Word 2000" width="90%">
+
+*Microsoft Office User Specialist – Word 2000 | Certified by Microsoft Corporation*
+
+</div>
+
+**Organization:** Microsoft  
+**Certification:** Microsoft Office User Specialist (MOUS)  
+**Specialty:** Microsoft Word 2000  
+**Participant:** Marco Celon  
+**Certified by:** Anne Marie McSweeney, Director of Microsoft Certification and Skills Assessment  
+**Context:** Office productivity certification during late 1990s era of IT systems integration
+
+**Significance:** The MOUS Word 2000 certification represents foundational office productivity skills during the era when Microsoft Office was standardizing across enterprises. While seemingly basic by modern standards, office automation and document management were essential capabilities in systems integration work, particularly when coordinating across teams and documenting complex technical processes. This certification documented competency in tools that, while now commonplace, were still being formalized and standardized during the late 1990s.
+
+---
+
+### ECDL – European Computer Driving Licence (May 2002)
+
+<div align="center">
+
+<img src="../../assets/images/certifications/ecdl-european-computer-driving-licence.png" alt="ECDL – European Computer Driving Licence" width="90%">
+
+*ECDL – European Computer Driving Licence | AICA (Associazione Italiana per l'Informatica e il Calcolo Automatico)*
+
+</div>
+
+**Organization:** AICA (Associazione Italiana per l'Informatica e il Calcolo Automatico)  
+**Certification:** ECDL – European Computer Driving Licence  
+**Participant:** Marco Celon  
+**Date:** May 3, 2002  
+**Certificate Number:** IT 041413  
+**Modules Completed:**
+- Basic IT concepts and information technology fundamentals
+- Computer use and file management
+- Word processing
+- Spreadsheets and data analysis
+- Databases
+- Presentations
+- Information and communication (networks and internet)
+
+**Significance:** The ECDL was a comprehensive foundational IT literacy certification, representing mastery of fundamental computer skills across multiple domains. Completed in May 2002 during the TeleAp tenure, this certification documented broad IT competency across office productivity, data management, and communications—skills that complemented the specialized technical expertise being developed on Project 119. The ECDL's breadth (covering seven different competency areas) represented the "literacy" required to operate effectively in IT environments of that era, distinct from specialized domain expertise but equally essential for professional communication and coordination across non-technical and technical teams.
+
+---
+
+### PMI Membership (March 2002)
+
+<div align="center">
+
+<img src="../../assets/images/certifications/pmi-membership.png" alt="Project Management Institute Membership Certificate" width="90%">
+
+*Project Management Institute Membership | Professional Membership – March 2002*
+
+</div>
+
+**Organization:** Project Management Institute (PMI)  
+**Membership Type:** Professional Member  
+**Participant:** Marco Celon  
+**Date:** March 2002  
+**Membership ID:** 298517  
+**Organization Focus:** "Building professionalism in project management"
+
+**Significance:** PMI membership in March 2002 represented professional commitment to project management discipline and methodologies. This was significant during the TeleAp tenure, when the role was evolving from Senior Integration Consultant focused on Project 119 to broader Program Manager responsibilities. PMI membership signaled alignment with formal project management frameworks (PMBOK – Project Management Body of Knowledge) and indicated participation in the growing professionalization of project management as a distinct discipline. During the late 1990s and early 2000s, formal project management methodologies were becoming standard practice in enterprise IT—PMI membership represented commitment to these practices and engagement with a professional community dedicated to advancing project management excellence.
+
+---
+
 ### Siebel Core Consultant Course (July 2001)
 
 <div align="center">

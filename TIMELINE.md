@@ -20,6 +20,8 @@ Entry into professional IT world with Atos, beginning of formative journey in Ro
 - **Technology stack** - Ericsson NASP telephony, HP CCM (CTI), Siebel CRM, Oracle databases, EMC storage, Sun/HP servers
 - **Focus area** - Infrastructure management, production testing, hardware administration, multi-vendor coordination
 - **Location** - Rome, Italy (Via Tiburtina and Via di Tor Pagnotta offices)
+- **Microsoft Office User Specialist – Word 2000** (late 1999 or early 2000)
+  - Office productivity certification from Microsoft, documenting foundational skills during standardization of Microsoft Office in enterprises
 
 ---
 
@@ -42,11 +44,17 @@ Continued work on Project 119 at Atos through summer 2000. Witnessed Y2K prepara
 ## 2001
 
 ### Overview
-Continued at TeleAp as Senior Integration Consultant. Led Project 119 technical transition from HP CCM to Genesys CTI while managing Siebel CRM integration. Company consolidation: TeleAp incorporated into Webegg (Olivetti's consulting and SI arm).
+Continued at TeleAp as Senior Integration Consultant. Led Project 119 technical transition from HP CCM to Genesys CTI while managing Siebel CRM integration. Company consolidation: TeleAp incorporated into Webegg (Olivetti's consulting and SI arm). Multiple professional certifications earned.
 
 ### Key Milestones
+- **March 2002** - **PMI Membership** (Project Management Institute)
+  - Professional membership committed to project management discipline and PMBOK methodologies
+  - Signaled transition toward formal Program Manager role responsibilities
+- **May 3, 2002** - **ECDL – European Computer Driving Licence** (AICA)
+  - Comprehensive IT literacy certification covering seven competency areas: IT concepts, file management, word processing, spreadsheets, databases, presentations, networking
+  - Documented broad foundational IT skills complementing specialized Project 119 expertise
 - **July 9–27, 2001** - **Siebel Core Consultant Course** (Siebel University)
-  - Formal three-week vendor training in Siebel CRM platform, object model, customization, and integration patterns
+  - Formal three-week vendor training in Siebel CRM platform, object model, customization framework, integration patterns
   - Certification during critical Project 119 transition period; formalized expertise from hands-on learning
   - Deep training in Siebel architecture provided structured foundation for managing real-time CRM integration
 - **January – December 2001** - Primary focus: Project 119 transition and Siebel integration
@@ -57,7 +65,7 @@ Continued at TeleAp as Senior Integration Consultant. Led Project 119 technical 
 - **Institutional knowledge leverage** - Deep understanding of existing Project 119 architecture guided transition approach
 - **Multi-vendor coordination** - Getting three vendors to work together; managing organizational alignment
 - **2001** - TeleAp incorporated into Webegg (Olivetti's consulting and systems integration arm); shift toward broader digital transformation projects
-- **Learning focus** - Integration architecture, organizational change management, vendor coordination, Siebel expertise formalization
+- **Learning focus** - Integration architecture, organizational change management, vendor coordination, formal CRM and project management certifications
 
 ---
 
@@ -125,14 +133,18 @@ Final year of formative journey at Avaya (through August 2006), reflection and p
 ### Professional Development Overview (1999-2006)
 
 **Professional Certifications and Formal Training**
-- **Total Certifications:** 1 (Siebel University Core Consultant Course)
+- **Total Formal Certifications:** 4
+  - Microsoft Office User Specialist – Word 2000 (1999-2000)
+  - Siebel Core Consultant Course (July 2001)
+  - Project Management Institute Membership (March 2002)
+  - ECDL – European Computer Driving Licence (May 2002)
 - **Period:** 1999 - 2006
 - **Duration:** 7 years
 - **Details:** See [Professional Development (1999-2006)](docs/professional-development/professional-development-1999-2006.md)
 
-**Professional Development Courses**
+**Professional Development Courses and Learning**
 - **Vendor-specific training:** Multiple courses across Atos, TeleAp, RSI Sistemi, and Avaya
-- **Specialized learning:** Infrastructure management, Siebel CRM, contact center integration, telecommunications systems
+- **Specialized learning:** Infrastructure management, Siebel CRM, contact center integration, telecommunications systems, project management
 - **Domain expertise:** Automotive, telecommunications, system integration, enterprise solutions
 
 **Companies and Tenure**
@@ -149,15 +161,15 @@ Final year of formative journey at Avaya (through August 2006), reflection and p
 
 | Year | Certifications | Company | Location |
 |------|---|---|---|
-| 1999 | Infrastructure foundation, Project 119 immersion | Atos | Rome |
-| 2000 | Y2K preparation and transition, Infrastructure expertise | Atos → TeleAp (Sept) | Rome |
-| 2001 | **Siebel Core Consultant Course** (July) | TeleAp | Rome |
-| 2002 | Siebel customization, contact center integration patterns | TeleAp | Rome |
+| 1999 | **MOUS – Word 2000**, Infrastructure foundation, Project 119 immersion | Atos | Rome |
+| 2000 | Y2K preparation and transition, Infrastructure expertise deepening | Atos → TeleAp (Sept) | Rome |
+| 2001 | **Siebel Core Consultant Course** (July), Multi-vendor integration patterns | TeleAp | Rome |
+| 2002 | **PMI Membership** (March), **ECDL** (May), Siebel customization, contact center integration patterns | TeleAp | Rome |
 | 2003 | Data integration expertise (RSI), Avaya specialization begins (June) | TeleAp → RSI → Avaya | Rome |
 | 2004 | Avaya telecommunications specialization | Avaya | Rome |
 | 2005 | Unified communications expertise deepening | Avaya | Rome |
 | 2006 | Telecommunications and vendor platform depth (through Aug) | Avaya | Rome |
-| **Total** | **1 formal certification + 7 years hands-on domain learning** | **4 companies** | **Rome** |
+| **Total** | **4 formal certifications + 7 years hands-on domain learning** | **4 companies** | **Rome** |
 
 ---
 
