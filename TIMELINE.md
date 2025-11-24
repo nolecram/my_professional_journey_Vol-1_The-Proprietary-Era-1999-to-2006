@@ -129,9 +129,25 @@ Continued professional growth at Avaya, middle years of extended tenure
 ## 2005
 
 ### Overview
-Professional maturity at Avaya, specialized expertise development
+Professional maturity at Avaya, specialized expertise development. Formal Avaya University training in contact center platforms and global communication solutions.
 
-[Timeline entries to be added]
+### Key Milestones
+- **April 27, 2005** - **Avaya University – Interaction Center and Operational Analyst 7.0** (Core Workshop)
+  - Course Code: AVA00549H00
+  - Training in Avaya Interaction Center 7.0 (Delta version) platform implementation and maintenance
+  - Specialized expertise as Operational Analyst for contact center platform
+  - Instructor: Jay Balim
+  - Represented evolution from Project 119 CTI/Siebel expertise toward modern contact center architecture
+- **May 6, 2005** - **Avaya University – ACS Training - EMEA, CALA and APAC**
+  - Course Code: AVA00267H00
+  - Advanced Communication Solutions training across European, Latin American/Caribbean, and Asia-Pacific regions
+  - Global telecommunications platform expertise
+  - Instructor: Wee Hua Goh
+  - Positioned for broader regional support and global infrastructure understanding
+- **Throughout 2005** - Continued Avaya contact center platform specialization
+- **Telecom Italia relationship** - Deepened expertise in customer's infrastructure while working on Avaya implementations
+- **Technology focus** - Avaya Interaction Center (contact center), unified communications, IP telephony, global telecom infrastructure
+- **Organizational context** - Working for major telecommunications vendor (Avaya) rather than integrators; full product portfolio expertise
 
 ---
 
@@ -149,7 +165,7 @@ Final year of formative journey at Avaya (through August 2006), reflection and p
 ### Professional Development Overview (1999-2006)
 
 **Professional Certifications and Formal Training**
-- **Total Formal Training Programs:** 7
+- **Total Formal Training Programs:** 9
   - Microsoft Office User Specialist – Word 2000 (1999-2000)
   - Siebel Core Consultant Course (July 2001)
   - Project Management Institute Membership (March 2002)
@@ -157,6 +173,8 @@ Final year of formative journey at Avaya (through August 2006), reflection and p
   - ISTUD Project Management Seminar (June 2002)
   - ECDL – European Computer Driving Licence (May 2002)
   - Consulnet Italia Internal Quality Verification Training (March 2003)
+  - Avaya University Interaction Center and Operational Analyst 7.0 (April 2005)
+  - Avaya University ACS Training - EMEA, CALA and APAC (May 2005)
 - **Period:** 1999 - 2006
 - **Duration:** 7 years
 - **Details:** See [Professional Development (1999-2006)](docs/professional-development/professional-development-1999-2006.md)
@@ -186,9 +204,9 @@ Final year of formative journey at Avaya (through August 2006), reflection and p
 | 2002 | **PMI Membership** (March), **Global Knowledge DTWSSERV** (May), **ISTUD Project Management Seminar** (June), **ECDL** (May), CRM and PM formalization | TeleAp | Rome |
 | 2003 | **Consulnet Quality Verification Training** (March), Data integration expertise (RSI), Avaya specialization begins (June) | TeleAp → RSI → Avaya | Rome |
 | 2004 | Avaya telecommunications specialization | Avaya | Rome |
-| 2005 | Unified communications expertise deepening | Avaya | Rome |
+| 2005 | **Avaya Interaction Center 7.0** (April), **Avaya ACS Training** (May), Unified communications & contact center specialization | Avaya | Rome |
 | 2006 | Telecommunications and vendor platform depth (through Aug) | Avaya | Rome |
-| **Total** | **7 formal training programs + 7 years hands-on domain learning** | **4 companies** | **Rome** |
+| **Total** | **9 formal training programs + 7 years hands-on domain learning** | **4 companies** | **Rome** |
 
 ---
 

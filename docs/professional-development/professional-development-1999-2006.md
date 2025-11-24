@@ -144,6 +144,52 @@ This documentation captures the professional certifications, formal courses, and
 
 ---
 
+### Avaya University – ACS Training EMEA, CALA and APAC (May 2005)
+
+<div align="center">
+
+<img src="../../assets/images/certifications/avaya-university-acs-training-emea-cala-apac-2005.png" alt="Avaya University ACS Training Certificate" width="90%">
+
+*Avaya University ACS Training - EMEA, CALA and APAC | Advanced Communication Solutions – May 6, 2005*
+
+</div>
+
+**Organization:** Avaya University  
+**Course:** ACS Training - EMEA, CALA and APAC (Advanced Communication Solutions)  
+**Course Code:** AVA00267H00  
+**Participant:** Marco Celon  
+**Date:** May 6, 2005  
+**Instructor:** Wee Hua Goh  
+**Geographic Coverage:** Europe, Middle East & Africa (EMEA), Central America, Latin America & Caribbean (CALA), Asia-Pacific (APAC)  
+**Context:** Global Avaya communication solutions training during mid-tenure at Avaya
+
+**Significance:** The Avaya ACS Training (May 2005) documented expertise in Advanced Communication Solutions across Avaya's primary global regions. By May 2005, nearly two years into the Avaya tenure, this training represented deepened vendor platform expertise. ACS (Advanced Communication Solutions) encompassed Avaya's portfolio of telecommunications and unified communications platforms—the core of Avaya's product strategy during the early-to-mid 2000s. The fact that the training covered EMEA, CALA, and APAC regions indicated preparation for broader regional support and global telecommunications infrastructure understanding. This training occurred during a period when telecommunications was beginning the transition toward IP-based communications and unified messaging, and Avaya was positioning itself as a global provider of these next-generation platforms.
+
+---
+
+### Avaya University – Interaction Center and Operational Analyst 7.0 (April 2005)
+
+<div align="center">
+
+<img src="../../assets/images/certifications/avaya-university-interaction-center-operational-analyst-7-0-2005.png" alt="Avaya University Interaction Center and Operational Analyst 7.0 Certificate" width="90%">
+
+*Avaya University Interaction Center and Operational Analyst 7.0 Implement and Maintain Delta - Core Workshop | April 27, 2005*
+
+</div>
+
+**Organization:** Avaya University  
+**Course:** Interaction Center and Operational Analyst 7.0 Implement and Maintain Delta - Core Workshop  
+**Course Code:** AVA00549H00  
+**Participant:** Marco Celon  
+**Date:** April 27, 2005  
+**Instructor:** Jay Balim  
+**Platform:** Avaya Interaction Center 7.0 (Delta version)  
+**Context:** Contact center platform implementation and operational analysis training
+
+**Significance:** The Avaya Interaction Center (IC) 7.0 training (April 2005) documented specialized expertise in Avaya's contact center platform—one of the company's flagship products. Interaction Center was Avaya's solution for customer contact management and employee engagement, representing the evolution of telephony and CTI (computer-telephone integration) platforms from earlier proprietary systems toward more integrated, IP-based contact center architectures. The "Implement and Maintain Delta" designation indicated training in the specific version (Delta) deployed in production environments, positioning for hands-on implementation and operational responsibility. By April 2005, approximately two years into the Avaya tenure, this training completed the technical foundation for deep expertise in Avaya's core contact center solutions—the natural evolution from Project 119 CTI/Siebel integration work at TeleAp toward Avaya's modern contact center platform. The training as an Operational Analyst indicated role responsibilities extending beyond pure implementation into ongoing operational analysis and optimization of contact center performance.
+
+---
+
 ### Siebel Core Consultant Course (July 2001)
 
 <div align="center">
@@ -211,12 +257,16 @@ This documentation captures the professional certifications, formal courses, and
 
 **Focus:** Telecommunications, unified communications, Avaya platforms and products
 
+- **Avaya University training** (2005) - Formal vendor training in Avaya communication solutions and contact center platforms
+  - ACS Training - EMEA, CALA and APAC (May 2005): Advanced Communication Solutions across global regions
+  - Interaction Center and Operational Analyst 7.0 (April 2005): Contact center platform implementation and operational analysis
 - **Avaya infrastructure** - Specialized learning in Avaya telecommunications solutions, PBX systems, unified communications, contact center platforms
 - **Telecom Italia expertise deepening** - Returning to familiar customer (TIM) with deeper understanding of telecom infrastructure after exposure to manufacturing and non-telecom sectors
 - **Telecommunications evolution** - Witnessing shift from traditional telecom infrastructure toward IP-based communications; understanding convergence of voice and data
 - **Large-scale vendor specialization** - Gaining deep expertise in Avaya product ecosystem while understanding broader telecommunications industry dynamics
+- **Contact center platform specialization** - Advancing from Siebel/Genesys integration patterns (TeleAp) to deep expertise in Avaya's Interaction Center platform
 
-**Technologies Studied:** Avaya telecom platforms, unified communications, IP telephony, contact center systems, Telecom Italia infrastructure evolution
+**Technologies Studied:** Avaya telecom platforms, Avaya Interaction Center (contact center), unified communications, IP telephony, contact center systems, Telecom Italia infrastructure evolution
 
 ---
 
