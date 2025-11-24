@@ -120,9 +120,17 @@ Transition year. Continued at TeleAp (within Webegg, preparing for Value Team co
 ## 2004
 
 ### Overview
-Continued professional growth at Avaya, middle years of extended tenure
+Continued professional growth at Avaya; mid-tenure deepening of telecommunications expertise and software solutions specialization. Established Application Practice Leader role managing CTI and IVR software solutions portfolio.
 
-[Timeline entries to be added]
+### Key Milestones
+- **Throughout 2004** - Application Practice Leader role maturation
+- **Software solutions focus** - CTI (Computer-Telephone Integration) and IVR (Interactive Voice Response) platforms
+- **Telecom Italia relationship deepening** - Established trusted advisor relationship with familiar customer from Project 119 era
+- **IVR transition leadership** - Guiding customer migration from proprietary IVR servers to VoIP-based solutions
+- **Vendor perspective** - Year two of exposure to American multinational corporation operations, quarterly results discipline, global product roadmaps
+- **Mission-critical infrastructure** - Supporting contact center and IVR systems serving mission-critical customer operations; established on-call culture for infrastructure support
+- **Team building** - Assembling and managing application solutions practice; working with exceptional colleagues committed to customer success
+- **Learning focus** - Deep telecommunications domain expertise; VoIP transition architecture; customer operations understanding; vendor ecosystem dynamics
 
 ---
 
@@ -154,9 +162,49 @@ Professional maturity at Avaya, specialized expertise development. Formal Avaya 
 ## 2006
 
 ### Overview
-Final year of formative journey at Avaya (through August 2006), reflection and preparation for new chapters
+Final year of formative journey at Avaya (through August 2006). Culmination of seven-year professional development arc spanning infrastructure management → CRM solutions → cross-industry exploration → telecommunications vendor specialization.
 
-[Timeline entries to be added]
+### Key Milestones
+- **Throughout 2006** - Continued Application Practice Leader responsibilities
+- **Software solutions maturity** - Full depth in CTI and IVR platforms; Telecom Italia expertise at peak
+- **VoIP transition** - Guiding customers through ongoing architectural shift from proprietary to VoIP-based solutions
+- **Infrastructure responsibility** - Supporting mission-critical contact center and IVR systems; extensive extratime commitment for infrastructure stability
+- **Telecommunications domain mastery** - Complete understanding of telecom ecosystem, carrier operations, enterprise telecommunications purchasing, large-scale system deployments
+- **Vendor experience consolidation** - Deep exposure to American multinational corporation operations, global product portfolio management, public market pressures, quarterly results discipline
+- **August 2006** - Conclusion of Avaya tenure; end of formative years (1999-2006)
+
+### Professional Development Summary (End of Era)
+
+By August 2006, seven years of professional development across four Rome-based companies had generated:
+
+**Certifications and Formal Training:** 9 comprehensive programs spanning infrastructure, CRM, project management, quality systems, and telecommunications platforms
+
+**Domain Expertise:** 
+- Infrastructure management (Atos era)
+- CRM systems integration (TeleAp era)
+- Cross-industry perspective (RSI era)
+- Telecommunications platforms and vendor operations (Avaya era)
+
+**Organizational Experience:**
+- System integrators (Atos, TeleAp, RSI Sistemi)
+- Fortune-100 vendor (Avaya)
+- Italian enterprises and American multinationals
+- Mission-critical infrastructure and customer-facing applications
+
+**Technical Competencies:**
+- Multi-vendor coordination and integration architecture
+- Production system management and operational discipline
+- Large-scale system transitions without service interruption
+- CRM and contact center platforms
+- Telecommunications infrastructure and VoIP transition
+- Project management and quality systems
+
+**Lessons That Endured:**
+- Understanding how systems work under pressure at scale
+- Coordinating across vendor boundaries when no single vendor owns the solution
+- Building relationships with colleagues and customers
+- Executing reliable operations in constrained environments
+- Recognizing principles that transcend specific technologies
 
 ---
 
