@@ -45,6 +45,10 @@ Continued work on Project 119 at Atos through summer 2000. Witnessed Y2K prepara
 Continued at TeleAp as Senior Integration Consultant. Led Project 119 technical transition from HP CCM to Genesys CTI while managing Siebel CRM integration. Company consolidation: TeleAp incorporated into Webegg (Olivetti's consulting and SI arm).
 
 ### Key Milestones
+- **July 9–27, 2001** - **Siebel Core Consultant Course** (Siebel University)
+  - Formal three-week vendor training in Siebel CRM platform, object model, customization, and integration patterns
+  - Certification during critical Project 119 transition period; formalized expertise from hands-on learning
+  - Deep training in Siebel architecture provided structured foundation for managing real-time CRM integration
 - **January – December 2001** - Primary focus: Project 119 transition and Siebel integration
   - Execute Genesys CTI transition without production downtime
   - Integrate Siebel CRM with Genesys for real-time agent screen population
@@ -53,7 +57,7 @@ Continued at TeleAp as Senior Integration Consultant. Led Project 119 technical 
 - **Institutional knowledge leverage** - Deep understanding of existing Project 119 architecture guided transition approach
 - **Multi-vendor coordination** - Getting three vendors to work together; managing organizational alignment
 - **2001** - TeleAp incorporated into Webegg (Olivetti's consulting and systems integration arm); shift toward broader digital transformation projects
-- **Learning focus** - Integration architecture, organizational change management, vendor coordination
+- **Learning focus** - Integration architecture, organizational change management, vendor coordination, Siebel expertise formalization
 
 ---
 
@@ -120,15 +124,16 @@ Final year of formative journey at Avaya (through August 2006), reflection and p
 
 ### Professional Development Overview (1999-2006)
 
-**Professional Certifications**
-- **Total:** [To be completed]
+**Professional Certifications and Formal Training**
+- **Total Certifications:** 1 (Siebel University Core Consultant Course)
 - **Period:** 1999 - 2006
 - **Duration:** 7 years
+- **Details:** See [Professional Development (1999-2006)](docs/professional-development/professional-development-1999-2006.md)
 
 **Professional Development Courses**
-- **Total:** [To be completed]
-- **Period:** 1999 - 2006
-- **Duration:** 7 years
+- **Vendor-specific training:** Multiple courses across Atos, TeleAp, RSI Sistemi, and Avaya
+- **Specialized learning:** Infrastructure management, Siebel CRM, contact center integration, telecommunications systems
+- **Domain expertise:** Automotive, telecommunications, system integration, enterprise solutions
 
 **Companies and Tenure**
 - Atos: May 1999 – September 2000 (16 months)
@@ -142,17 +147,17 @@ Final year of formative journey at Avaya (through August 2006), reflection and p
 
 ### Yearly Breakdown
 
-| Year | Certifications | Courses | Company | Location |
-|------|---|---|---|---|
-| 1999 | [TBD] | [TBD] | Atos | Rome |
-| 2000 | [TBD] | [TBD] | Atos → TeleAp (Sept) | Rome |
-| 2001 | [TBD] | [TBD] | TeleAp | Rome |
-| 2002 | [TBD] | [TBD] | TeleAp | Rome |
-| 2003 | [TBD] | [TBD] | TeleAp → RSI → Avaya (June) | Rome |
-| 2004 | [TBD] | [TBD] | Avaya | Rome |
-| 2005 | [TBD] | [TBD] | Avaya | Rome |
-| 2006 | [TBD] | [TBD] | Avaya | Rome |
-| **Total** | **[TBD]** | **[TBD]** | **4 companies** | **Rome** |
+| Year | Certifications | Company | Location |
+|------|---|---|---|
+| 1999 | Infrastructure foundation, Project 119 immersion | Atos | Rome |
+| 2000 | Y2K preparation and transition, Infrastructure expertise | Atos → TeleAp (Sept) | Rome |
+| 2001 | **Siebel Core Consultant Course** (July) | TeleAp | Rome |
+| 2002 | Siebel customization, contact center integration patterns | TeleAp | Rome |
+| 2003 | Data integration expertise (RSI), Avaya specialization begins (June) | TeleAp → RSI → Avaya | Rome |
+| 2004 | Avaya telecommunications specialization | Avaya | Rome |
+| 2005 | Unified communications expertise deepening | Avaya | Rome |
+| 2006 | Telecommunications and vendor platform depth (through Aug) | Avaya | Rome |
+| **Total** | **1 formal certification + 7 years hands-on domain learning** | **4 companies** | **Rome** |
 
 ---
 
