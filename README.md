@@ -1,4 +1,13 @@
-# My Professional Formative Journey (1999–2006)
+# My Professional Journey: Vol. 1 – The Proprietary Era (1999–2006)
+
+## About This Series
+
+This is **Volume 1** in a multi-part documentation of a professional journey spanning from 1999 to present. Each volume captures a distinct technological era and the principles that transcended it:
+
+- **Vol. 1 – The Proprietary Era (1999–2006)**: Foundation-building in proprietary systems (Atos, TeleAp, RSI Sistemi, Avaya)
+- **Vol. 2 – The Cloud Transition (2006–2012)**: [The-Cloud-Transition-2006-to-2012](https://github.com/nolecram/my_professional_journey_Vol-2_The-Cloud-Transition-2006-to-2012) - International growth and cloud computing emergence
+
+---
 
 ## Why This Repository
 
@@ -106,12 +115,14 @@ This archive honors the people who made those years valuable: managers who inves
 
 ---
 
-## The Story Continues
+## Next Volume
 
-This repository documents the formative years (1999–2006) in Rome, Italy. The professional journey continues beyond 2006 with [My IBM Professional Journey (2006–2012)](https://github.com/nolecram/my_professional_journey_The-IBM-Years-2006-to-2012), spanning three continents—Rome, Dubai, and Melbourne—where the transition from proprietary infrastructure to cloud computing unfolded across six transformative years.
+**[Vol. 2 – The Cloud Transition (2006–2012)](https://github.com/nolecram/my_professional_journey_Vol-2_The-Cloud-Transition-2006-to-2012)**
+
+The professional journey continues beyond 2006 with six transformative years spanning three continents—Rome, Dubai, and Melbourne—where the transition from proprietary infrastructure to cloud computing unfolded across IBM's international operations.
 
 ---
 
 *Repository created: November 23, 2025*  
-*Professional journey period: 1999-2006 (Rome, Italy)*  
+*Professional journey period: Vol. 1 (1999-2006) – The Proprietary Era (Rome, Italy)*  
 *Purpose: Time capsule and tribute to formative professional years*
