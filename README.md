@@ -66,7 +66,9 @@ The journey represents more than credentials and achievements; it embodies the m
 
 ### Professional Development & Learning
 
-- [Professional Development (1999-2006)](docs/professional-development/professional-development-1999-2006.md) - Certifications, formal training, and learning journey across four companies
+- [Professional Development (1999-2006)](docs/professional-development/professional-development-1999-2006.md) - Comprehensive overview of certifications, formal training, and learning journey across four companies
+  - [Certifications (1999-2006)](docs/professional-development/certifications.md) - Detailed documentation of professional certifications from vendors and standards bodies
+  - [Courses and Training (1999-2006)](docs/professional-development/courses.md) - Comprehensive training programs and professional development activities
 
 ---
 
